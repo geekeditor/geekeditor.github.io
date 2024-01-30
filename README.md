@@ -1,2 +1,2 @@
-# geekeditor.github.io
-GeekEditor's Guide 
+# GeekEditor's Guide 
+
