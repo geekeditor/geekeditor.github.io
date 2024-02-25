@@ -1,4 +1,4 @@
 - Getting started
-  - [Quick start](docs/2024-01-29-10-13-52-vm43.md)
+  - [Quick start](docs/2024-02-25-08-49-47-2c2c.md)
 
 
