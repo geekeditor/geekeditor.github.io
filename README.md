@@ -1,2 +1,1 @@
-# GeekEditor's Guide 
-
+# GeekEditor
